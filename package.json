@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "jquery": "^3.6.4"
+  }
+}
